@@ -3,18 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mousesun846.github.io/KnowledgeBlog/",
+  hostname: "https://hellojava-ts-hdu.github.io/KnowledgeBlog/",
 
   author: {
     name: "MouseSun",
-    url: "https://github.com/MouseSun846",
+    url: "https://github.com/hellojava-ts-hdu",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://mousesun846.github.io/KnowledgeBlog/logo.png",
+  logo: "https://hellojava-ts-hdu.github.io/KnowledgeBlog/logo.png",
 
-  repo: "https://mousesun846.github.io/KnowledgeBlog/",
+  repo: "https://hellojava-ts-hdu.github.io/KnowledgeBlog/",
 
   docsDir: "src",
 
@@ -32,7 +32,7 @@ export default hopeTheme({
   blog: {
     description: "全栈开发者",
     medias: {
-      GitHub: "https://github.com/MouseSun846"
+      GitHub: "https://github.com/hellojava-ts-hdu"
     },
   },
 

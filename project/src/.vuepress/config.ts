@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "知识笔记",
-  description: "MouseSun846的知识笔记",
+  description: "hellojava-ts-hdu的知识笔记",
 
   theme,
 
